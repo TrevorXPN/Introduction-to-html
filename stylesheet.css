@@ -1,0 +1,25 @@
+body {
+    font-family: fantasy ;
+    color: red;
+}
+li {
+    list-style: none;
+    float: left;
+}
+.HEADER {
+    background-color:black;
+    height: 110px;
+}
+.header-logo {
+    color:red;
+    font-size: 80px;
+    float: left;
+}
+.MAIN {
+    background-color:bisque;
+    height: 600px ;
+}
+.FOOTER {
+    background-color: black;
+    height: 120px;
+}
